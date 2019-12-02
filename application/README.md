@@ -29,7 +29,7 @@ Describe where your project is, how you could use Google’s help in the endeavo
 <br/>
 
 Following link shows the video I trained to classifed snoring. Currently it can accurately detect snoring and teethgrinding but not accurate to detect what kind of snoring it is. 
-(https://github.com/Parag0506/AndroidDevChallenge/blob/master/assets/androidDevChallenge.png) 
+(https://youtu.be/GJUCFYQauTE) 
   
 <br/>
 
